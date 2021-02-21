@@ -3,6 +3,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=webstorm,node,yarn
 
 .node_modules
+dist
+.idea
+
 ### Node ###
 # Logs
 logs
